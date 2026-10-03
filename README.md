@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of migratetoflarum/renumber-posts.** Not for installation: use [Packagist](https://packagist.org/packages/migratetoflarum/renumber-posts) or the [upstream repository](https://github.com/migratetoflarum/renumber-posts).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/migratetoflarum-renumber-posts/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.16`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/migratetoflarum-renumber-posts/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-10-29 | `>=0.1.0-beta.13 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/migratetoflarum-renumber-posts/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-04-16 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/migratetoflarum-renumber-posts/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/migratetoflarum-renumber-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/migratetoflarum-renumber-posts.json)
 
